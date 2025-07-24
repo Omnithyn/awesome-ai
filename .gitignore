@@ -412,3 +412,4 @@ build/
 
 # Project documentation (local planning and design only)
 docs/ 
+scripts/
